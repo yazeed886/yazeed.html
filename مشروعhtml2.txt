@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Yazid Saad Al-Ahmadi</title>
+
+</head>
+<style>
+ 
+  
+    body{
+        background-color: rgb(135, 156, 163);
+    }
+    
+       img{
+        position: relative;
+        left: 500px;
+        
+       }
+       
+    
+    h1,h2,h3,h4{
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 40px;
+      border-style: double;
+      font-weight: 500;
+      color: rgb(6, 2, 2);
+      border-bottom-style: double;
+        text-align: center
+    }
+   b,ol,ul {
+   
+
+    color: rgb(224, 207, 207);
+    font-size: 20px;
+   }
+  
+div{
+    Margin: 100px; 
+
+
+    border-style: double dotted;
+
+}
+</style>
+<body>
+   
+<img src="yazeed223.jpeg" height="200" width="200" alt="Photograph" >  
+
+ 
+<div>
+<h1>
+        Yazid Saad Al-Ahmadi
+
+    </h1>
+    <b>Name:<i> Yazeed Saad Rashid Al-Ahmadi </i>live in Medina, age 22, I study at Taibah University, Mahd Al-Dahab branch
+
+    </b>
+    <h2>
+        stages of my studies
+    </h2>
+    <b>She studied primary at Al-Qiblatain Primary School, and the intermediate school was in Abdul Quddus Al-Ansari, next to Al-Qiblatain Primary School.
+        And high school, the first two years I studied at Dar Al-Abrar High School, and in the third year I moved to Dar Al-Hijrah High School
+
+    </b>
+    <h3>Interest </h3>
+    <ol>
+        <li>Shooting</li>
+         <li>swimming</li>
+         <li>the hunt</li>
+    </ol>
+    <h4>Courses and experiences</h4>
+    <ul>
+        <li>Car mechanics</li>
+        <li>The course is 4 months old</li>
+    </ul>
+
+    <a href="file:///C:/Users/Ad/Desktop/%D8%A8%D8%B1%D9%85%D8%AC%D9%87/YAZEED.HTML">للانتقال للرابط</a>
+</div>
+</body>
+</html>
